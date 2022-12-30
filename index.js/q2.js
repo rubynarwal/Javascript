@@ -29,4 +29,4 @@ function toLowerCaseChar(char){
       }
       const arr1=["MA","SA","I","SCH","OOL"];
       console.log(toLowerCaseWordsArray(arr1));
-    
+    }}
