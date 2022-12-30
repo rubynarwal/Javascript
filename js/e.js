@@ -1,5 +1,5 @@
 const s1 = 'Hello';
 const s2 = 'World ';
-const greeting = s1 + ' ' + s2;
+const greeting = r1 + ' ' + 2;
 
 console.log(greeting); // "Hello World"
