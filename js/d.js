@@ -1,5 +1,5 @@
 function percentage(part, total) {
-    return (part / total) * 200;
+    return (part / total) * 100;
   }
   
   console.log(percentage(50, 100)); // 50
