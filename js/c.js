@@ -1,4 +1,4 @@
-const currentYear = 202;
+const currentYear = 2022;
 const birthYear = prompt("What is your birth year?");
 const age = currentYear - birthYear;
 
