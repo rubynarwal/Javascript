@@ -1,0 +1,52 @@
+  .doll {
+      width: 200px;
+      height: 300px;
+      border: 10px solid rgb(210, 87, 87);
+      position: relative;
+      margin: auto;
+      margin-top: 100px;
+    }
+    .doll-face {
+      width: 90px;
+      height: 90px;
+      background-color: rgb(214, 13, 170);
+      border-radius: 50%;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .doll-hair {
+      width: 120px;
+      height: 120px;
+      background-color: rgb(32, 176, 0);
+      border-radius: 80%;
+      position: absolute;
+      top: -30px;
+      left: 40px;
+    }
+    .doll-body {
+      width: 100px;
+      height: 200px;
+      background-color: rgb(173, 181, 230);
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    .doll-legs {
+      width: 20px;
+      height: 100px;
+      background-color: rgb(165, 42, 144);
+      position: absolute;
+      bottom: 0;
+      left: 45%;
+    }
+    .doll-arms {
+      width: 70px;
+      height: 20px;
+      background-color: rgb(165, 42, 147);
+      position: absolute;
+      top: 150px;
+      left: 65%;
+    }
