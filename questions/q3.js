@@ -1,5 +1,5 @@
 let name= "Name=*****Akshma";
-let school="School=.....Mrm public high school gohana" ;
+let school="School=.....Murli public high school gohana" ;
 let grade="Grade=$$$$$A";
 let section="Section=.....vivekanand a1";
 let rollno = 12321;
