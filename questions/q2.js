@@ -1,7 +1,7 @@
 let users = [
     { firstName: "RUBY", lastName: "Dev", place: "Banglore" },
-    { firstName: "Akshma", lastName: "Shukla", place: "Banglore" },
-    { firstName: "Ritu", lastName: "Bhat", place: "Kolkata" },
+    { firstName: "Akshma", lastName: "Grewal", place: "Banglore" },
+    { firstName: "Ritu", lastName: "Goyal", place: "Kolkata" },
   ];
   let arr=[];
   users.filter(function(el){
