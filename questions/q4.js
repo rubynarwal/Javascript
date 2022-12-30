@@ -16,7 +16,7 @@ function checkIsPrime(num){
   if(x==true){
     console.log("Prime");
   } else {
-    console.log("Not prime");
+    console.log("Not a prime");
   }
   
   
