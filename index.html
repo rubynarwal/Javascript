@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="navbar">
+      <h1>Admin Panel</h1>
+    </div>
+ 12. The update button will have class :- "update_price" -->
+    <div id="main_container">
+      <div id="side_bar">
+        <form action="" id="form">
+          <h3>Add Product</h3>
+          <input type="text" id="name" placeholder="Product name"><br>
+          <input type="number" id="price" placeholder="Price"><br>
+          <input type="text" id="description" placeholder="Description"><br>
+          <input type="date" id="delivery" placeholder="Delivery date"><br>
+          <input type="text" id="image" placeholder="Image url"><br>
+          <button id="add_product">Add Product</button>
+        </form>
+        <hr>
+        <div>
+          <h3>Sort Based On Price</h3>
+          <button id="sort-low-to-high" onclick="sortLH()">Sort Low to High</button>
+          <button id="sort-high-to-low" onclick="sortHL()">Sort High to Low</button>
+        </div>
+        <hr>
+        <div>
+          <h3>Filter</h3>
+          <button id="greater-than" onclick="filter1()">Price > 4000</button>
+          <button id="less-than" onclick="filter2()">Price < = 4000</button>
+        </div>
+        <hr>
+      </div>
+      <div id="container"></div>
+    </div>
+
+  </body>
+</html>
+<script src="./main.js"></script>
+
+
+ 
