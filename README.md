@@ -6,7 +6,7 @@
 ##  "JS stands for JavaScript"(JAVASCRIPT)💕
 
 
-*In this repository i will share some basic problems.*  
+*In this repository i will share some basic problems and projects.*  
 
 **✨✨✔✨✨
 
