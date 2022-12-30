@@ -1,4 +1,4 @@
-let party=["RUBY", "rohit", "monu", "sakshm", "rohan"];
+let party=["RUBY", "rohit", "Aarti", "sakshm", "rohan"];
 
 let diary={};
 
