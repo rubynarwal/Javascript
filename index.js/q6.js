@@ -1,5 +1,5 @@
-function addNumbers(c,d){
-    return c+d;
+function addNumbers(p,q){
+    return p+q;
   }
   let x=addNumbers(3,4);
   let y=7
