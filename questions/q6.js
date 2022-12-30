@@ -1,5 +1,5 @@
 function is0dd(num){
-    if(num%2==1){
+    if(num%2==0){
       return true;
     }
     else{
