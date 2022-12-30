@@ -1,0 +1,12 @@
+let name= "Name=*****Akshma";
+let school="School=.....Mrm public high school gohana" ;
+let grade="Grade=$$$$$A";
+let section="Section=.....vivekanand a1";
+let rollno = 12321;
+let marks="physics=92,english=95,maths=98";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(marks);
