@@ -6,5 +6,5 @@ function diff(x,y){
       return x-y
     }
     }
-    console.log(diff(11,4))
-    console.log(diff(4,18))
+    console.log(diff(11,6))
+    console.log(diff(6,18))
