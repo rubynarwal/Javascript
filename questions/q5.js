@@ -1,9 +1,9 @@
-function difference(a,b){
-    if(a-b<0){
-      return-(a-b)
+function difference(x,y){
+    if(x-y<0){
+      return-(x-y)
     }
     else{
-      return a-b
+      return x-y
     }
     }
     console.log(difference(12,4))
