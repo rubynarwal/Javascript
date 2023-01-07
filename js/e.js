@@ -1,5 +1,5 @@
-const Y1 = 'Hello';
-const Y2 = 'World ';
-const greeting = Y1 + ' ' + Y2;
+const r1 = 'Hello';
+const r2 = 'World ';
+const greeting = r1 + ' ' + r2;
 
 console.log(greeting); // "Hello World"
